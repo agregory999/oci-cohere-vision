@@ -1,0 +1,7 @@
+standard_version: 1
+format: streamlit
+python: ">=3.12"
+oci_services:
+  - generative-ai-inference
+deployment: local
+exceptions: []
